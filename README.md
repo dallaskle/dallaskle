@@ -6,7 +6,7 @@ I'm a full stack software engineer specializing in Javascript, React, React Nati
 - 🏈 Co-founder of SimBull.com - The Sports Market for Sports, a part of Techstars SportTech Melbourne 2022
 - 📚 Finance knowledge from a Master's Degree in Finance from Aarhus University
 - 🪙 Curious about cryptocurrencies and dApps
-- 🚝 Building a Personal Tracking App at Melirate.com
+- 🚝 Building a Personal Fitness Tracking App at Melirate.com
 - 🏃 Fun Fact: Ran marathons in Iowa, Denmark, and Spain
 - 📫 Reach me by email: dallasjklein@gmail.com
 
