@@ -3,7 +3,7 @@
 I'm a full stack software engineer specializing in React, React Native (Expo), Java, and AWS, that enjoys tackling challenging problems. 
 
 - 🌱 Currently enrolled in BloomTech's Backend Program, which was jointly developed with Amazon
-- 🏈 Co-founder of SimBull.com - The Sports Market for Sports, where thousands of people have traded sports teams like stocks
+- 🏈 Co-founder of SimBull.com - The Sports Market for Sports, a part of Techstars SportTech Melbourne 2022
 - 📚 Finance knowledge from a Master's Degree in Finance from Aarhus University
 - 🪙 Curious about cryptocurrencies and dApps
 - 🚝 Building a Personal Tracking App at Melirate.com
