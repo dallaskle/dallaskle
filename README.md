@@ -8,7 +8,7 @@ I'm a full stack software engineer specializing in Javascript, React, React Nati
 - 🪙 Curious about cryptocurrencies and dApps
 - 🚝 Building a Personal Fitness Tracking App at Melirate.com
 - 🏃 Fun Fact: Ran marathons in Iowa, Denmark, and Spain
-- 📫 Reach me by email: dallasjklein@gmail.com
+- 📫 Reach me by email: dallasjklein at gmail.com
 
 
 
