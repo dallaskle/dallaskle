@@ -11,6 +11,7 @@ I'm a full-stack software engineer specializing in Javascript, React, React Nati
 - 📫 Reach me by email: dallasjklein@gmail.com
 
 
+
 SKILLS AND TOOLS
 
 Languages: Java, Javascript, HTML, CSS, Solidity
