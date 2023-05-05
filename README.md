@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-'m a full-stack software engineer specializing in Javascript, React, React Native (Expo), Java, and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
+I'm a full-stack software engineer specializing in Javascript, React, React Native (Expo), Java, and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
 
 - 🌱 Currently enrolled in BloomTech's Backend Program, which was jointly developed with Amazon
 - 🏈 Co-founder of SimBull.com - The Sports Market for Sports, a part of Techstars SportTech Melbourne 2022
