@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack software engineer specializing in Javascript, React, React Native (Expo), Java, and Amazon Web Services (AWS).  I enjoy tackling challenging problems that help make people's lives better. 
+'m a full-stack software engineer specializing in Javascript, React, React Native (Expo), Java, and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
 
 - 🌱 Currently enrolled in BloomTech's Backend Program, which was jointly developed with Amazon
 - 🏈 Co-founder of SimBull.com - The Sports Market for Sports, a part of Techstars SportTech Melbourne 2022
@@ -8,7 +8,18 @@ I'm a full stack software engineer specializing in Javascript, React, React Nati
 - 🪙 Curious about cryptocurrencies and dApps
 - 🚝 Building a Personal Fitness Tracking App at Melirate.com
 - 🏃 Fun Fact: Ran marathons in Iowa, Denmark, and Spain
-- 📫 Reach me by email: dallasjklein at gmail.com
+- 📫 Reach me by email: dallasjklein@gmail.com
+
+
+SKILLS AND TOOLS
+
+Languages: Java, Javascript, HTML, CSS, Solidity
+
+Frameworks: React, React Native, Expo, Spring Boot
+
+Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch, IAM
+
+More: Git, Github, REST APIs, Object-Oriented Programming, JUnit Testing, Dagger Dependency Injection, Guava Caching, NoSQL, Cloudflare, App Store Connect, IntelliJ, VS Code, Postman, Netlify, Class and Sequence Diagrams (UML), Firebase, Google Cloud Platform
 
 
 
