@@ -20,7 +20,7 @@ Frameworks: React, React Native, Expo, Spring Boot
 
 Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch, IAM
 
-More: Git, Github, REST APIs, Object-Oriented Programming, JUnit Testing, Dagger Dependency Injection, Guava Caching, NoSQL, Cloudflare, App Store Connect, IntelliJ, VS Code, Postman, Netlify, Class and Sequence Diagrams (UML), Firebase, Google Cloud Platform
+More: Git, Github, REST APIs, Redux State Management, React Context API, Object-Oriented Programming, JUnit Testing, Dagger Dependency Injection, Guava Caching, NoSQL, Cloudflare, App Store Connect, IntelliJ, VS Code, Postman, Netlify, Class and Sequence Diagrams (UML), Firebase, Google Cloud Platform
 
 
 
