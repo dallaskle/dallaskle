@@ -5,7 +5,7 @@ I'm a full-stack software engineer with 3+ years of experience specializing in J
 - 🏈 Co-founder of SimBull.com - The Sports Market for Sports, a part of Techstars SportTech Melbourne 2022
 - 📚 Finance knowledge from a Master's Degree in Finance from Aarhus University
 - 🌱 Currently enrolled in BloomTech's Backend Program, which was jointly developed with Amazon
-- 🪙 Curious about cryptocurrencies and dApps
+- 🪙 Currently learning about cryptocurrencies and dApps
 - 🚝 Building a Personal Fitness Tracking App at Melirate.com
 - 🏃 Fun Fact: Ran marathons in Iowa, Denmark, and Spain
 - 📫 Reach me by email: dallasjklein@gmail.com
