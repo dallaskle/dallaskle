@@ -1,22 +1,20 @@
 ### Hi there 👋
 
-I'm a full-stack software engineer with 3+ years of experience specializing in Javascript, React, React Native (Expo), Java, and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
+I'm a full-stack software engineer with 3+ years of experience specializing in Javascript/Typescript, React, React Native (Expo), Node, Java, and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
 
-- 🏈 Co-founder of SimBull.com - The Sports Market for Sports, a part of Techstars SportTech Melbourne 2022
+- 🏦 Prev Software Engineer at JPMorgan Chase in NYC
+- 🏈 Co-founded of SimBull.com - The Sports Market for Sports, a part of Techstars SportTech Melbourne 2022
 - 📚 Finance knowledge from a Master's Degree in Finance from Aarhus University
-- 🌱 Currently enrolled in BloomTech's Backend Program, which was jointly developed with Amazon
-- 🪙 Currently learning about cryptocurrencies and dApps
-- 🚝 Building a Personal Fitness Tracking App at Melirate.com
-- 🏃 Fun Fact: Ran marathons in Iowa, Denmark, and Spain
+- 🏃 Fun Fact: Ran marathons in Iowa, Denmark, Spain, and NYC
 - 📫 Reach me by email: dallasjklein@gmail.com
 
 
 
 SKILLS AND TOOLS
 
-Languages: Java, Javascript, HTML, CSS, Solidity
+Languages: Java, Javascript/Typescript, HTML, CSS, Tailwind
 
-Frameworks: React, React Native, Expo, Spring Boot
+Frameworks: React, React Native, Expo, Node, Express, Spring Boot
 
 Amazon Web Services: Lambda Functions, DynamoDB, API Gateway, CloudFormation, CloudWatch, IAM
 
