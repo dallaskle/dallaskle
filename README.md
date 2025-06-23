@@ -1,3 +1,5 @@
+[Fall 2023]
+
 ### Hi there 👋
 
 I'm a full-stack software engineer with 3+ years of experience specializing in Javascript/Typescript, React, React Native (Expo), Node, Java, and Amazon Web Services (AWS). I enjoy tackling challenging problems that help make people's lives better.
